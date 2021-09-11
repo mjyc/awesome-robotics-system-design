@@ -1,15 +1,19 @@
 # robotics-system-design-page
+Stuff I read to learn robotics system design
 
 ## University Courses
 
 - [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
 - [University of Washington CSE 451: Operating Systems](https://courses.cs.washington.edu/courses/cse451/20au/)
 - [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+- [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
+- [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
 
 ## System-y Resources
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
 - [ROS2 Design](http://design.ros2.org/)
 
 ## Robotics-ish Opensource Resources
