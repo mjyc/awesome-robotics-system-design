@@ -18,6 +18,7 @@ Stuff I read to learn robotics system design
 
 ## Robotics-ish Opensource Resources
 
+- [ROS World](https://roscon.ros.org/)
 - [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/latest/)
 - [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - [PCL Tutorial](https://pcl.readthedocs.io/projects/tutorials/en/latest/)
