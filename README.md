@@ -1,4 +1,4 @@
-# robotics-system-design-page
+# Robotics System Design Page
 Stuff I read to learn robotics system design
 
 ## University Courses
@@ -9,14 +9,16 @@ Stuff I read to learn robotics system design
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
 
-## System-y Resources
+## System Building-ish Resources
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
 - [ROS2 Design](http://design.ros2.org/)
+- [Weekly Robotics - YouTube](https://www.youtube.com/channel/UCCRTqp-rykFr905qQfVqZYg)
+- [Balena.io Blog](https://www.balena.io/blog/)
 
-## Robotics-ish Opensource Resources
+## Robotics++ Opensource Materials
 
 - [ROS World](https://roscon.ros.org/)
 - [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/latest/)
