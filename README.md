@@ -14,9 +14,13 @@ Stuff I read to learn robotics system design
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
+- [Refactoring.Guru](https://refactoring.guru/)
+- [roadmap.sh](https://roadmap.sh/) - [Frontend](https://roadmap.sh/frontend) | [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
+- [The Map of Control Theory](https://engineeringmedia.com/)
 - [ROS2 Design](http://design.ros2.org/)
 - [Weekly Robotics - YouTube](https://www.youtube.com/channel/UCCRTqp-rykFr905qQfVqZYg)
 - [Balena.io Blog](https://www.balena.io/blog/)
+- [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Robotics++ Opensource Materials
 
