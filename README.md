@@ -30,3 +30,12 @@ Stuff I read to learn robotics system design
 - [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/latest/)
 - [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - [PCL Tutorial](https://pcl.readthedocs.io/projects/tutorials/en/latest/)
+
+## Project Management & Engineering Culture
+
+- [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
+- [The Scrum Guide](https://scrumguides.org/index.html)
+- [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
+- [Brad Porter's LinkedIn Posts](https://www.linkedin.com/in/brad-porter-1a989/detail/recent-activity/posts/)
+- [Steve Blank's Blog Posts](https://steveblank.com/)
+- [CSE599A1: Entrepreneurship](https://courses.cs.washington.edu/courses/cse599a1/)
