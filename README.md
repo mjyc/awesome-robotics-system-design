@@ -42,3 +42,4 @@ Stuff I read to learn robotics system design
 - [Brad Porter's LinkedIn Posts](https://www.linkedin.com/in/brad-porter-1a989/detail/recent-activity/posts/)
 - [Steve Blank's Blog Posts](https://steveblank.com/)
 - [CSE599A1: Entrepreneurship](https://courses.cs.washington.edu/courses/cse599a1/)
+- [The Glue Engineer](https://noidea.dog/glue)
