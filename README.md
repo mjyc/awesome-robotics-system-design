@@ -30,6 +30,7 @@ Stuff I read to learn robotics system design
     - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231)
     - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418)
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff)
+    - [Say goodbye to flakiness in your integration tests](https://vimeo.com/649655099/0050cab551)
 - [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/latest/)
 - [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - [PCL Tutorial](https://pcl.readthedocs.io/projects/tutorials/en/latest/)
