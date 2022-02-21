@@ -1,4 +1,4 @@
-# Awesome Robotics System Design Pages
+# Awesome Robotics System Design
 Stuff I read to learn about robotics system design
 
 ## System Building-ish Resources
