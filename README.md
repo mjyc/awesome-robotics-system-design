@@ -1,13 +1,5 @@
-# Robotics System Design Page
-Stuff I read to learn robotics system design
-
-## University Courses
-
-- [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
-- [University of Washington CSE 451: Operating Systems](https://courses.cs.washington.edu/courses/cse451/20au/)
-- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
-- [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
-- [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
+# Awesome Robotics System Design Pages
+Stuff I read to learn about robotics system design
 
 ## System Building-ish Resources
 
@@ -15,14 +7,14 @@ Stuff I read to learn robotics system design
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
 - [ROS2 Design](http://design.ros2.org/)
+- [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [The Map of Control Theory](https://engineeringmedia.com/)
 - [Weekly Robotics - YouTube](https://www.youtube.com/channel/UCCRTqp-rykFr905qQfVqZYg)
 - [Balena.io Blog](https://www.balena.io/blog/)
 - [Stripe Blog: Engineering](https://stripe.com/blog/engineering)
-- [DEV Community](https://dev.to/)
+- [DEV Community - #robotics](https://dev.to/t/robotics)
 - [Refactoring.Guru](https://refactoring.guru/)
 - [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
-- [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-- [The Map of Control Theory](https://engineeringmedia.com/)
 
 ## Robotics++ Opensource Materials
 
@@ -44,3 +36,16 @@ Stuff I read to learn robotics system design
 - [Steve Blank's Blog Posts](https://steveblank.com/)
 - [CSE599A1: Entrepreneurship](https://courses.cs.washington.edu/courses/cse599a1/)
 - [The Glue Engineer](https://noidea.dog/glue)
+- [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
+
+## University Courses
+
+- [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
+- [University of Washington CSE 451: Operating Systems](https://courses.cs.washington.edu/courses/cse451/20au/)
+- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+- [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
+- [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
