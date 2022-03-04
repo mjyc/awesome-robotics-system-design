@@ -15,6 +15,7 @@ Stuff I read to learn about robotics system design
 - [DEV Community - #robotics](https://dev.to/t/robotics)
 - [Refactoring.Guru](https://refactoring.guru/)
 - [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
+- [Apex.AI Blog](https://www.apex.ai/blog)
 
 ## Robotics++ Opensource Materials
 
