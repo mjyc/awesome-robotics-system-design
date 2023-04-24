@@ -16,6 +16,11 @@ Stuff I read to learn about robotics system design
 - [Refactoring.Guru](https://refactoring.guru/)
 - [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
 - [Apex.AI Blog](https://www.apex.ai/blog)
+- [Foxglove blog](https://foxglove.dev/blog)
+- [PICKNIK blog](https://picknik.ai/blog/)
+- [Isaac Sim Technical Blog](https://developer.nvidia.com/blog/tag/isaac-sim/)
+- [The AI Driving Olympics (AI-DO)](https://www.duckietown.org/research/ai-driving-olympics)
+- [Cruise news](https://getcruise.com/news)
 
 ## Robotics++ Opensource Materials
 
