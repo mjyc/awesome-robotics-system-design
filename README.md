@@ -19,6 +19,7 @@ Stuff I read to learn about robotics system design
 - [Foxglove blog](https://foxglove.dev/blog)
 - [PICKNIK blog](https://picknik.ai/blog/)
 - [Isaac Sim Technical Blog](https://developer.nvidia.com/blog/tag/isaac-sim/)
+- [Airbotics blog](https://www.airbotics.io/blog)
 - [The AI Driving Olympics (AI-DO)](https://www.duckietown.org/research/ai-driving-olympics)
 - [Cruise news](https://getcruise.com/news)
 
