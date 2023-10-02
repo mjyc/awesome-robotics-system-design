@@ -49,7 +49,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 
 - [ROSCon](https://roscon.ros.org/)
     - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231), 2016
-    - [Determinism in ROS – or when things break sometimes and how to fix i](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
+    - [Determinism in ROS – or when things break sometimes and how to fix it](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
     - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
     - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
