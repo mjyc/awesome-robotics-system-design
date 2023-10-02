@@ -23,6 +23,8 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [ROS 2.0 rosbags](https://github.com/ros2/design/blob/ros2bags/articles/rosbags.md)
 - [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
     - [Planning component design](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+- [openpilot](https://github.com/commaai/openpilot)
+    - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
 
 ## Blogs
 
@@ -80,9 +82,11 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [Async stack traces in folly: Improving debugging in the developer lifecycle](https://developers.facebook.com/blog/post/2021/10/21/async-stack-traces-folly-improving-debugging-developer-lifecycle/)
 - [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 - [The C++ Bestiary](http://videocortex.io/2017/Bestiary/)
-- [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit#)
 - [Reflection in C++ Part 1: The Present](https://gracicot.github.io/reflection/2018/04/03/reflection-present.html)
 - [Brain Unrolling](http://videocortex.io/2019/Brain-Unrolling/)
+- [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit#)
+- [coffeeintobugs](https://github.com/dallison/coffeeintobugs)
+- [Coroutine library in C++](https://github.com/dallison/co)
 
 ## License
 
