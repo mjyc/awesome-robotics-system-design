@@ -12,7 +12,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [Testing](https://martinfowler.com/tags/testing.html)
 - [Refactoring.Guru](https://refactoring.guru/)
 
-## Design Docs
+## Design Docs & Articles
 
 - [ROS2 Design](http://design.ros2.org/)
     - [ROS on ZeroMQ and Friends](https://design.ros2.org/articles/ros_with_zeromq.html)
@@ -25,6 +25,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [Planning component design](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 - [openpilot](https://github.com/commaai/openpilot)
     - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
+- [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
 
 ## Blogs
 
