@@ -1,49 +1,68 @@
-# Awesome Robotics System Design
-Stuff I read to learn about robotics system design
+# Awesome Robotics System Design (and more)
+Stuff I read to learn about robotics system & software design, engineering culture, etc.
 
-## System Building-ish Resources
+## General System & SW Design Resources
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+    - [How to best prepare for system design interviews | Top Tips for system design interviews preparation](https://www.youtube.com/watch?v=aht20iQXfRY)
+    - [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
 - [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
-- [ROS2 Design](http://design.ros2.org/)
-- [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-- [The Map of Control Theory](https://engineeringmedia.com/)
-- [Weekly Robotics - YouTube](https://www.youtube.com/channel/UCCRTqp-rykFr905qQfVqZYg)
-- [Balena.io Blog](https://www.balena.io/blog/)
-- [Stripe Blog: Engineering](https://stripe.com/blog/engineering)
-- [DEV Community - #robotics](https://dev.to/t/robotics)
+    - [Testing](https://martinfowler.com/tags/testing.html)
 - [Refactoring.Guru](https://refactoring.guru/)
-- [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
+
+## Design Docs
+
+- [ROS2 Design](http://design.ros2.org/)
+    - [ROS on ZeroMQ and Friends](https://design.ros2.org/articles/ros_with_zeromq.html)
+    - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
+    - [Clock and Time](https://design.ros2.org/articles/clock_and_time.html)
+    - [Managed nodes](https://design.ros2.org/articles/node_lifecycle.html)
+    - [ROS 2 Launch System](https://design.ros2.org/articles/roslaunch.html)
+    - [ROS 2.0 rosbags](https://github.com/ros2/design/blob/ros2bags/articles/rosbags.md)
+- [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
+    - [Planning component design](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+
+## Blogs
+
+- [Balena.io Blog](https://www.balena.io/blog/)
 - [Apex.AI Blog](https://www.apex.ai/blog)
-- [Foxglove blog](https://foxglove.dev/blog)
 - [PICKNIK blog](https://picknik.ai/blog/)
+- [Foxglove blog](https://foxglove.dev/blog)
+- [Cruise news](https://getcruise.com/news)
 - [Isaac Sim Technical Blog](https://developer.nvidia.com/blog/tag/isaac-sim/)
 - [Airbotics blog](https://www.airbotics.io/blog)
-- [The AI Driving Olympics (AI-DO)](https://www.duckietown.org/research/ai-driving-olympics)
-- [Cruise news](https://getcruise.com/news)
+- [aviator blog](https://www.aviator.co/blog/)
+- [DevZero blog](https://www.devzero.io/blog)
 
-## Robotics++ Opensource Materials
+## Mindmaps
 
-- [ROS World](https://roscon.ros.org/)
-    - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231)
-    - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418)
-    - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff)
-    - [Say goodbye to flakiness in your integration tests](https://vimeo.com/649655099/0050cab551)
-- [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/latest/)
-- [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
-- [PCL Tutorial](https://pcl.readthedocs.io/projects/tutorials/en/latest/)
+- [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
+- [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [The Map of Control Theory](https://engineeringmedia.com/)
 
-## Project Management & Engineering Culture
+## Conferences
+
+- [ROSCon](https://roscon.ros.org/)
+    - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231), 2016
+    - [Determinism in ROS – or when things break sometimes and how to fix i](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
+    - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
+    - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
+    - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
+- [BazelCon](https://roscon.ros.org/)
+    - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
+- [CppCon](https://cppcon.org/)
+
+## Engineering Culture & Project Management
 
 - [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
 - [The Scrum Guide](https://scrumguides.org/index.html)
 - [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
-- [Brad Porter's LinkedIn Posts](https://www.linkedin.com/in/brad-porter-1a989/detail/recent-activity/posts/)
-- [Steve Blank's Blog Posts](https://steveblank.com/)
-- [CSE599A1: Entrepreneurship](https://courses.cs.washington.edu/courses/cse599a1/)
 - [The Glue Engineer](https://noidea.dog/glue)
 - [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
+- [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 
 ## University Courses
 
@@ -52,6 +71,18 @@ Stuff I read to learn about robotics system design
 - [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
+
+## C++
+
+- [Abseil Blog](https://abseil.io/blog/)
+    - [The Danger of Atomic Operations](https://abseil.io/blog/01222022-atomic-operations)
+- [facebook folly](https://github.com/facebook/folly/tree/main)
+    - [Async stack traces in folly: Improving debugging in the developer lifecycle](https://developers.facebook.com/blog/post/2021/10/21/async-stack-traces-folly-improving-debugging-developer-lifecycle/)
+- [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
+- [The C++ Bestiary](http://videocortex.io/2017/Bestiary/)
+- [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit#)
+- [Reflection in C++ Part 1: The Present](https://gracicot.github.io/reflection/2018/04/03/reflection-present.html)
+- [Brain Unrolling](http://videocortex.io/2019/Brain-Unrolling/)
 
 ## License
 
