@@ -8,8 +8,8 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
     - [How to best prepare for system design interviews | Top Tips for system design interviews preparation](https://www.youtube.com/watch?v=aht20iQXfRY)
     - [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
-- [Martin Fowler's Software Architecture Guide](https://martinfowler.com/architecture/)
-    - [Testing](https://martinfowler.com/tags/testing.html)
+    - [Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/?ref=blog.pragmaticengineer.com)
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [Refactoring.Guru](https://refactoring.guru/)
 
 ## Design Docs & Articles
@@ -22,22 +22,25 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [ROS 2 Launch System](https://design.ros2.org/articles/roslaunch.html)
     - [ROS 2.0 rosbags](https://github.com/ros2/design/blob/ros2bags/articles/rosbags.md)
 - [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
-    - [Planning component design](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+    - [Planning component design](https://autowarefoundation.github.io/autoware-documentation/main/design/autoware-architecture/planning/)
 - [openpilot](https://github.com/commaai/openpilot)
     - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
+    - [How We Test openpilot | COMMA_CON](https://youtu.be/vc6q9yIz6Ys?si=TM_seRC6dM-4JD4g)
+    - [The state of comma.ai](https://srianumakonda.medium.com/the-state-of-comma-ai-2140aabc6f52)
 - [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
 
 ## Blogs
 
-- [Balena.io Blog](https://www.balena.io/blog/)
-- [Apex.AI Blog](https://www.apex.ai/blog)
+- [comma.ai blog](https://blog.comma.ai/)
+- [Apex.AI Blog](https://www.apex.ai/blog/)
 - [PICKNIK blog](https://picknik.ai/blog/)
-- [Foxglove blog](https://foxglove.dev/blog)
-- [Cruise news](https://getcruise.com/news)
+- [Foxglove blog](https://foxglove.dev/blog/)
+- [Cruise news](https://getcruise.com/news/)
 - [Isaac Sim Technical Blog](https://developer.nvidia.com/blog/tag/isaac-sim/)
-- [Airbotics blog](https://www.airbotics.io/blog)
+- [Airbotics blog](https://www.airbotics.io/blog/)
+- [Balena.io Blog](https://www.balena.io/blog/)
 - [aviator blog](https://www.aviator.co/blog/)
-- [DevZero blog](https://www.devzero.io/blog)
+- [DevZero blog](https://www.devzero.io/blog/)
 
 ## Mindmaps
 
