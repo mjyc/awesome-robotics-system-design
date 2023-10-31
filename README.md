@@ -50,6 +50,9 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 
 ## Conferences
 
+- [COMMA_CON](https://commacon.splashthat.com/)
+    - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
+- [How We Test openpilot | COMMA_CON]()
 - [ROSCon](https://roscon.ros.org/)
     - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231), 2016
     - [Determinism in ROS – or when things break sometimes and how to fix it](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
