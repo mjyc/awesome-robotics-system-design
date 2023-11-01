@@ -24,9 +24,9 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
     - [Planning component design](https://autowarefoundation.github.io/autoware-documentation/main/design/autoware-architecture/planning/)
 - [openpilot](https://github.com/commaai/openpilot)
+    - [End-to-end lateral planning](https://blog.comma.ai/end-to-end-lateral-planning/)
     - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
-    - [How We Test openpilot | COMMA_CON](https://youtu.be/vc6q9yIz6Ys?si=TM_seRC6dM-4JD4g)
-    - [The state of comma.ai](https://srianumakonda.medium.com/the-state-of-comma-ai-2140aabc6f52)
+    - [Development speed over everything](https://blog.comma.ai/dev-speed/)
 - [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
 
 ## Blogs
@@ -50,18 +50,18 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 
 ## Conferences
 
-- [COMMA_CON](https://commacon.splashthat.com/)
-    - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
-- [How We Test openpilot | COMMA_CON]()
 - [ROSCon](https://roscon.ros.org/)
     - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231), 2016
     - [Determinism in ROS – or when things break sometimes and how to fix it](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
     - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
     - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
+- [COMMA_CON](https://commacon.splashthat.com/)
+    - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
 - [BazelCon](https://roscon.ros.org/)
     - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
 - [CppCon](https://cppcon.org/)
+    - [How We Test openpilot | COMMA_CON](https://youtu.be/vc6q9yIz6Ys?si=TM_seRC6dM-4JD4g)
 
 ## Engineering Culture & Project Management
 
