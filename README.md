@@ -95,6 +95,11 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [coffeeintobugs](https://github.com/dallison/coffeeintobugs)
 - [Coroutine library in C++](https://github.com/dallison/co)
 
+## C
+
+- [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+- [In Defense Of Linked Lists](https://www.rfleury.com/p/in-defense-of-linked-lists?utm_source=profile&utm_medium=reader2)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
