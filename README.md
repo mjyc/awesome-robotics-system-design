@@ -67,7 +67,8 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 
 - [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
 - [The Scrum Guide](https://scrumguides.org/index.html)
-- [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
+- [Why you should stop using product roadmaps and try the GIST Framework](https://itamargilad.com/gist-framework/)
+    - [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
 - [The Glue Engineer](https://noidea.dog/glue)
 - [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
 - [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
