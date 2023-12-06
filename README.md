@@ -97,6 +97,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit)
 - [Coffee Into Bugs: Life After Threads, Coroutines](https://www.linkedin.com/pulse/coffee-bugs-life-after-threads-coroutines-dave-allison)
 - [Challenge your performance intuition with C++ magic squares](https://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_magic_squares.html)
+- [Embedded Template Library](https://www.etlcpp.com/)
 
 ## C
 
