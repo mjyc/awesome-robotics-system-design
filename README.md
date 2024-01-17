@@ -41,6 +41,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [Balena.io Blog](https://www.balena.io/blog/)
 - [aviator blog](https://www.aviator.co/blog/)
 - [DevZero blog](https://www.devzero.io/blog/)
+- [Applied Intuition blog](https://blog.applied.co/)
 
 ## Mindmaps
 
