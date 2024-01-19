@@ -66,7 +66,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [BazelCon](https://roscon.ros.org/)
     - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
 - [CppCon](https://cppcon.org/)
-    - [An Introduction to Tracy Profiler in C++ - Marcos Slomp - CppCon 2023](https://www.youtube.com/watch?v=ghXk3Bk5F2U)
+    - [An Introduction to Tracy Profiler in C++](https://www.youtube.com/watch?v=ghXk3Bk5F2U), 2023
 
 ## University Courses
 
