@@ -74,6 +74,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
+- [MIT 6.4210/6.4212 - Robotic Manipulation](https://manipulation.csail.mit.edu/)
 
 ## C++
 
