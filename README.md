@@ -44,11 +44,12 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [DevZero blog](https://www.devzero.io/blog/)
 - [Applied Intuition blog](https://blog.applied.co/)
 
-## Mindmaps
+## Mindmaps & Diagrams
 
 - [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
 - [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [The Map of Control Theory](https://engineeringmedia.com/)
+- [Software Architecture Styles](https://images.app.goo.gl/YQPSrKNV8d7MeW176)
 
 ## Conferences
 
@@ -65,7 +66,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [BazelCon](https://roscon.ros.org/)
     - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
 - [CppCon](https://cppcon.org/)
-    - [How We Test openpilot | COMMA_CON](https://youtu.be/vc6q9yIz6Ys?si=TM_seRC6dM-4JD4g)
+    - [An Introduction to Tracy Profiler in C++ - Marcos Slomp - CppCon 2023](https://www.youtube.com/watch?v=ghXk3Bk5F2U)
 
 ## University Courses
 
