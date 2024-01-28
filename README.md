@@ -51,6 +51,31 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [The Map of Control Theory](https://engineeringmedia.com/)
 - [Software Architecture Styles](https://images.app.goo.gl/YQPSrKNV8d7MeW176)
 
+## Engineering Culture & Project Management
+
+- [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
+- [The Scrum Guide](https://scrumguides.org/index.html)
+- [Why you should stop using product roadmaps and try the GIST Framework](https://itamargilad.com/gist-framework/)
+    - [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
+- [The Glue Engineer](https://noidea.dog/glue)
+- [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
+- [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+
+## Safety, Metrics, Standards
+
+- [Amazon re:MARS 2022 - Functional safety product development for autonomous mobile robots](https://youtu.be/0MV5fVxhM9M?si=tdXxzqkZzZH3T1X1)
+- [Functional Safety Assessment of an Automated Lane Centering System | NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
+- [ISO 26262, SOTIF, and Simulation in Autonomy Systems](https://blog.applied.co/blog-post/iso26262-sotif-simulation)
+- [Safety Performance Indicators (SPIs) for Autonomous Vehicles](https://users.ece.cmu.edu/~koopman/lectures/L124_SPI_vs_KPI.pdf)
+- [A Safety Standard Approach for Fully Autonomous Vehicles](https://users.ece.cmu.edu/~koopman/pubs/Koopman19_WAISE_UL4600.pdf)
+- [A Literature Review of Performance Metrics of Automated Driving Systems for On-Road Vehicles](https://www.frontiersin.org/articles/10.3389/ffutr.2021.759125)
+- [Title Key performance indicators for assessing the impacts of automation in road transportation Results of the Trilateral key performance](https://www.connectedautomateddriving.eu/wp-content/uploads/2018/03/KPS-for-Assessing-Impact-CAD_VTT.pdf)
+- [Quantifying Known and Unknown Metrics in ADAS and AV Development](https://blog.applied.co/blog-post/quantifying-knowns-and-unknowns)
+- [ISO 26262-1:2018 - Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/standard/68383.html)
+    - [What is ASIL (Automotive Safety Integrity Level)? – Overview](https://www.synopsys.com/automotive/what-is-asil.html)
+- [ISO 11270:2014 - Intelligent transport systems — Lane keeping assistance systems (LKAS) — Performance requirements and test procedures](https://www.iso.org/standard/50347.html)
+
 ## Conferences
 
 - [ROSCon](https://roscon.ros.org/)
@@ -98,30 +123,6 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [Coffee into Bugs: libc from Scratch](https://www.linkedin.com/posts/allisondave_coffee-into-bugs-libc-from-scratch-part-activity-6992629090604236800-yBiU)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 - [In Defense Of Linked Lists](https://www.rfleury.com/p/in-defense-of-linked-lists?utm_source=profile&utm_medium=reader2)
-
-## Engineering Culture & Project Management
-
-- [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
-- [The Scrum Guide](https://scrumguides.org/index.html)
-- [Why you should stop using product roadmaps and try the GIST Framework](https://itamargilad.com/gist-framework/)
-    - [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
-- [The Glue Engineer](https://noidea.dog/glue)
-- [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
-- [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
-- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
-
-## Safety, Metrics, Standards
-
-- [Amazon re:MARS 2022 - Functional safety product development for autonomous mobile robots](https://youtu.be/0MV5fVxhM9M?si=tdXxzqkZzZH3T1X1)
-- [Functional Safety Assessment of an Automated Lane Centering System | NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
-- [ISO 26262, SOTIF, and Simulation in Autonomy Systems](https://blog.applied.co/blog-post/iso26262-sotif-simulation)
-- [Safety Performance Indicators (SPIs) for Autonomous Vehicles](https://users.ece.cmu.edu/~koopman/lectures/L124_SPI_vs_KPI.pdf)
-- [A Literature Review of Performance Metrics of Automated Driving Systems for On-Road Vehicles](https://www.frontiersin.org/articles/10.3389/ffutr.2021.759125)
-- [Title Key performance indicators for assessing the impacts of automation in road transportation Results of the Trilateral key performance](https://www.connectedautomateddriving.eu/wp-content/uploads/2018/03/KPS-for-Assessing-Impact-CAD_VTT.pdf)
-- [Quantifying Known and Unknown Metrics in ADAS and AV Development](https://blog.applied.co/blog-post/quantifying-knowns-and-unknowns)
-- [ISO 26262-1:2018 - Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/standard/68383.html)
-    - [What is ASIL (Automotive Safety Integrity Level)? – Overview](https://www.synopsys.com/automotive/what-is-asil.html)
-- [ISO 11270:2014 - Intelligent transport systems — Lane keeping assistance systems (LKAS) — Performance requirements and test procedures](https://www.iso.org/standard/50347.html)
 
 ## License
 
