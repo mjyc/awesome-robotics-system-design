@@ -29,6 +29,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
     - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
     - [Development speed over everything](https://blog.comma.ai/dev-speed/)
 - [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
+- [Improving Embedded Software Development through CI/CD](https://medium.com/@tom_80522/improving-embedded-software-development-through-ci-cd-00e9628d0a12)
 
 ## Blogs
 
