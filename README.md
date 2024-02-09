@@ -16,9 +16,6 @@ Stuff I read to learn about robotics system & software design and more.
 - [Balena.io Blog](https://www.balena.io/blog/)
     - [OpenTelemetry for IoT Metrics](https://blog.balena.io/opentelemetry-for-iot-metrics/)
     - [Scale your Industrial deployment with IIoT Edge Gateways Managed by HiveMQ and balena](https://blog.balena.io/scale-industrial-deployment-iiot-edge-gateway-balena-hivemq/)
-- [NVIDIA DEVELOPER Blog](https://developer.nvidia.com/blog)
-    - [Design Your Robot on Hardware-in-the-Loop with NVIDIA Jetson](https://developer.nvidia.com/blog/design-your-robot-on-hardware-in-the-loop-with-nvidia-jetson/)
-    - [Create Realistic Robotics Simulations with ROS 2 MoveIt and NVIDIA Isaac Sim](https://developer.nvidia.com/blog/create-realistic-robotics-simulations-with-ros-2-moveit-and-nvidia-isaac-sim/)
 - [comma.ai blog](https://blog.comma.ai/)
     - [End-to-end lateral planning](https://blog.comma.ai/end-to-end-lateral-planning/)
     - [How openpilot works in 2021](https://blog.comma.ai/openpilot-in-2021/)
@@ -26,11 +23,18 @@ Stuff I read to learn about robotics system & software design and more.
 - [Cruise news](https://getcruise.com/news/)
     - [Cruise's Continuous Learning Machine Predicts the Unpredictable on San Francisco Roads](https://getcruise.com/news/blog/2020/cruises-continuous-learning-machine-predicts-the-unpredictable-on-san/)
     - [Building continuous integration & continuous delivery for autonomous vehicles on Google Cloud](https://cloud.google.com/blog/products/containers-kubernetes/how-cruise-tests-its-avs-on-a-google-cloud-platform)
+- [Foxglove blog](https://foxglove.dev/blog/)
+    - [MCAP vs ROS 1 Bag Index Performance](https://foxglove.dev/blog/mcap-vs-ros1-bag-index-performance)
+- [NVIDIA DEVELOPER Blog](https://developer.nvidia.com/blog)
+    - [Design Your Robot on Hardware-in-the-Loop with NVIDIA Jetson](https://developer.nvidia.com/blog/design-your-robot-on-hardware-in-the-loop-with-nvidia-jetson/)
+    - [Create Realistic Robotics Simulations with ROS 2 MoveIt and NVIDIA Isaac Sim](https://developer.nvidia.com/blog/create-realistic-robotics-simulations-with-ros-2-moveit-and-nvidia-isaac-sim/)
 - [PICKNIK blog](https://picknik.ai/blog/)
   - [Packaging ROS with GitHub Actions](https://picknik.ai/ros/debian/packaging/2023/02/27/packaging-ros-with-github-actions.html)
   - [Real-Time Programming: Priority Inversion](https://picknik.ai/real-time/priority%20inversion/roscon/2024/01/31/Real-Time_Programming_Priority_Inversion.html)
-- [Foxglove blog](https://foxglove.dev/blog/)
-    - [MCAP vs ROS 1 Bag Index Performance](https://foxglove.dev/blog/mcap-vs-ros1-bag-index-performance)
+- [WAYVE Blog](https://wayve.ai/thinking/)
+    - [Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy](https://wayve.ai/thinking/introducing-gaia1/)
+    - [Ghost Gym: A Neural Simulator for Autonomous Driving](https://wayve.ai/thinking/ghost-gym-neural-simulator/)
+
 
 ## Conferences
 
@@ -40,6 +44,7 @@ Stuff I read to learn about robotics system & software design and more.
     - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
     - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
+    - [MCAP - A Next Generation File Format for ROS Recording](https://www.youtube.com/watch?v=Ly1XSxW8XF4), 2022
     - [Octomap is dead long life Bonxai](https://vimeo.com/879001365/4e5a1c2e0a), 2023
     - [Surviving the Flood (of Rosbags)](https://vimeo.com/879001892/66580b9633), 2023
     - [What is Robotics Observability? Scaling ROS from Prototype to Production](https://vimeo.com/879001947/f15b94d3a4), 2023
@@ -56,6 +61,7 @@ Stuff I read to learn about robotics system & software design and more.
     - [An Introduction to Tracy Profiler in C++](https://www.youtube.com/watch?v=ghXk3Bk5F2U), 2023
     - [BehaviorTree.CPP: Task Planning for Robots and Virtual Agents](https://www.youtube.com/watch?v=7MZDBihsR_U), 2023
 
+
 ## Design Docs
 
 - [ROS2 Design](http://design.ros2.org/)
@@ -70,6 +76,7 @@ Stuff I read to learn about robotics system & software design and more.
 - [openpilot](https://github.com/commaai/openpilot)
     - [cereal](https://github.com/commaai/cereal/tree/master)
     - [loggerd](https://github.com/commaai/openpilot/tree/master/system/loggerd)
+
 
 ## Articles by Topics
 
@@ -182,6 +189,7 @@ with publically available slides and/or homeworks (problems).
 - [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
 - [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
 - [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+
 
 ## License
 
