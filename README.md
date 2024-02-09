@@ -25,6 +25,8 @@ Stuff I read to learn about robotics system & software design and more.
     - [Building continuous integration & continuous delivery for autonomous vehicles on Google Cloud](https://cloud.google.com/blog/products/containers-kubernetes/how-cruise-tests-its-avs-on-a-google-cloud-platform)
 - [Foxglove blog](https://foxglove.dev/blog/)
     - [MCAP vs ROS 1 Bag Index Performance](https://foxglove.dev/blog/mcap-vs-ros1-bag-index-performance)
+    - [Spotlight: Using Web-Based Technologies to Make Robotics Accessible to All](https://foxglove.dev/blog/spotlight-using-web-based-technologies-to-make-robotics-accessible-to-all)
+    - [Sending ROS 2 Message Types Over the Wire](https://foxglove.dev/blog/sending-ros2-message-types-over-the-wire)
 - [NVIDIA DEVELOPER Blog](https://developer.nvidia.com/blog)
     - [Design Your Robot on Hardware-in-the-Loop with NVIDIA Jetson](https://developer.nvidia.com/blog/design-your-robot-on-hardware-in-the-loop-with-nvidia-jetson/)
     - [Create Realistic Robotics Simulations with ROS 2 MoveIt and NVIDIA Isaac Sim](https://developer.nvidia.com/blog/create-realistic-robotics-simulations-with-ros-2-moveit-and-nvidia-isaac-sim/)
