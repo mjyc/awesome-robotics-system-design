@@ -40,6 +40,11 @@ Stuff I read to learn about robotics system & software design and more.
     - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
     - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
+    - [Octomap is dead long life Bonxai](https://vimeo.com/879001365/4e5a1c2e0a), 2023
+    - [Surviving the Flood (of Rosbags)](https://vimeo.com/879001892/66580b9633), 2023
+    - [What is Robotics Observability? Scaling ROS from Prototype to Production](https://vimeo.com/879001947/f15b94d3a4), 2023
+    - [Improving Your Application's Algorithms and Optimizing Performance Using Trace Data](https://vimeo.com/879001159/7d588b2cc4), 2023
+    - [Simulate robots like never before with Open 3D Engine](https://vimeo.com/879001753/80b62256e1), 2023
 - [COMMA_CON](https://commacon.splashthat.com/)
     - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
 - [Amazon re:MARS](https://remars.amazonevents.com/)
@@ -90,6 +95,16 @@ Stuff I read to learn about robotics system & software design and more.
 
 - [Testing robotics systems in fast-paced startups](https://mjyc.github.io/2020/12/16/testing.html)
 - [How Lessons From Self-Driving Can Improve LLMs](https://www.tidepool.so/2023/11/08/how-lessons-from-self-driving-can-improve-llms/)
+
+### Observability
+
+- [Prometheus vs. OpenTelemetry Metrics: A Complete Guide]([https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/](https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/))
+- [Robo-Observability](https://mjyc.github.io/2023/04/21/observability.html)
+- [First Mile Observability and the Rise of Observability Pipelines](https://bit.kevinslin.com/p/first-mile-observability-and-the)
+- [Surviving the Flood (of Rosbags)](https://vimeo.com/879001892/66580b9633)
+- [What is Robotics Observability? Scaling ROS from Prototype to Production](https://vimeo.com/879001947/f15b94d3a4)
+- [Improving Your Application's Algorithms and Optimizing Performance Using Trace Data](https://vimeo.com/879001159/7d588b2cc4)
+- [An Introduction to Tracy Profiler in C++](https://www.youtube.com/watch?v=ghXk3Bk5F2U)
 
 ### C/C++
 
