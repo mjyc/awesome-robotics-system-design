@@ -1,5 +1,6 @@
-# Awesome Robotics System Design (and more)
-Stuff I read to learn about robotics system & software design, engineering culture, etc.
+# Awesome Robotics System Design
+
+Stuff I read to learn about robotics system & software design and more.
 
 ## Blogs
 
@@ -62,6 +63,8 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
     - [Planning component design](https://autowarefoundation.github.io/autoware-documentation/main/design/autoware-architecture/planning/)
 - [openpilot](https://github.com/commaai/openpilot)
+    - [cereal](https://github.com/commaai/cereal/tree/master)
+    - [loggerd](https://github.com/commaai/openpilot/tree/master/system/loggerd)
 
 ## Articles by Topics
 
@@ -104,7 +107,7 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 
 
-## Resources
+## Learning Resources
 
 ### Mindmaps & Diagrams
 
@@ -118,15 +121,23 @@ Stuff I read to learn about robotics system & software design, engineering cultu
 with publically available slides and/or homeworks (problems).
 
 - [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
-- [University of Washington CSE 451: Operating Systems](https://courses.cs.washington.edu/courses/cse451/20au/)
-- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+    - [Assignments](https://gitlab.cs.washington.edu/cse-478wi)
+- [University of Washington  CSE 571: AI-Robotics](https://courses.cs.washington.edu/courses/cse571/23sp/)
+    - [Homework 1 - EKF and Particle Filter for Localization](https://courses.cs.washington.edu/courses/cse571/23sp/homeworks/CSE571_HW1.pdf)
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
+    - [dubnet](https://github.com/pjreddie/dubnet/tree/main)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
+- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 - [MIT 6.4210/6.4212 - Robotic Manipulation](https://manipulation.csail.mit.edu/)
+- [Georgia Tech CS 3630: Introduction to Computer Vision](https://dellaert.github.io/20S-3630/schedule.html)
+- [Georgia Tech CS x476: Introduction to Computer Vision](https://dellaert.github.io/21F-x476/schedule.html)
+- [Georgia Institute of Technology: Interactive Linear Algebra \[1553\]
+](https://textbooks.math.gatech.edu/ila/1553/index.html)
 
 ### System Design
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master/object-oriented-design-case-studies)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
     - [How to best prepare for system design interviews | Top Tips for system design interviews preparation](https://www.youtube.com/watch?v=aht20iQXfRY)
@@ -142,6 +153,9 @@ with publically available slides and/or homeworks (problems).
 
 - [LeetCode](https://leetcode.com/)
 - [SadServers](https://sadservers.com/)
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+- [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
+- [Autonomous Systems Interview Preparations](https://gist.github.com/sunsided/b76260626cefb7512a9b3579f1c9660e)
 
 ### Engineering in Organization
 
