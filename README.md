@@ -57,7 +57,7 @@ Stuff I read to learn about robotics system & software design and more.
 - [BazelCon](https://roscon.ros.org/)
     - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
 - [CppCon](https://cppcon.org/)
-    - [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
+    - [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs), 2014
     - [An Introduction to Tracy Profiler in C++](https://www.youtube.com/watch?v=ghXk3Bk5F2U), 2023
     - [BehaviorTree.CPP: Task Planning for Robots and Virtual Agents](https://www.youtube.com/watch?v=7MZDBihsR_U), 2023
 
