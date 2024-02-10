@@ -107,7 +107,7 @@ Stuff I read to learn about robotics system & software design and more.
 
 ### Observability
 
-- [Prometheus vs. OpenTelemetry Metrics: A Complete Guide]([https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/](https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/))
+- [Prometheus vs. OpenTelemetry Metrics: A Complete Guide](https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/)
 - [Robo-Observability](https://mjyc.github.io/2023/04/21/observability.html)
 - [First Mile Observability and the Rise of Observability Pipelines](https://bit.kevinslin.com/p/first-mile-observability-and-the)
 - [Surviving the Flood (of Rosbags)](https://vimeo.com/879001892/66580b9633)
