@@ -56,7 +56,7 @@ Stuff I read to learn about robotics system & software design and more.
     - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
 - [Amazon re:MARS](https://remars.amazonevents.com/)
     - [Functional safety product development for autonomous mobile robots](https://youtu.be/0MV5fVxhM9M?si=tdXxzqkZzZH3T1X1), 2022 
-- [BazelCon](https://roscon.ros.org/)
+- [BazelCon](https://conf.bazel.build/)
     - [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8?si=ekcExfMAgI7-GZDG), 2019
 - [CppCon](https://cppcon.org/)
     - [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs), 2014
