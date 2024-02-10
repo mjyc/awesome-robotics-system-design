@@ -123,6 +123,7 @@ Stuff I read to learn about robotics system & software design and more.
 - [Challenge your performance intuition with C++ magic squares](https://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_magic_squares.html)
 - [Brain Unrolling](http://videocortex.io/2019/Brain-Unrolling/)
 - [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit)
+- [Context is Everything](https://vimeo.com/644068002)
 - [Async stack traces in folly: Improving debugging in the developer lifecycle](https://developers.facebook.com/blog/post/2021/10/21/async-stack-traces-folly-improving-debugging-developer-lifecycle/)
 - [The Danger of Atomic Operations](https://abseil.io/blog/01222022-atomic-operations)
 - [In Defense Of Linked Lists](https://www.rfleury.com/p/in-defense-of-linked-lists)
