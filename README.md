@@ -282,6 +282,7 @@ Stuff I read to learn about robotics system & software design and more.
 
 - [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
 - [Improving Embedded Software Development through CI/CD](https://medium.com/@tom_80522/improving-embedded-software-development-through-ci-cd-00e9628d0a12)
+- [Comprehensive CI/CD System Design](https://tryexceptpass.org/article/continuous-builds-1/)
 
 ### Safety, Metrics, Standards
 
@@ -372,7 +373,7 @@ with publically available slides and/or homeworks (problems).
 
 ### Hands-on Exercise
 
-- [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/)
+- [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
 - [SadServers](https://sadservers.com/)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
