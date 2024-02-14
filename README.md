@@ -159,7 +159,6 @@ with publically available slides and/or homeworks (problems).
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
     - [dubnet](https://github.com/pjreddie/dubnet/tree/main)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
-](https://textbooks.math.gatech.edu/ila/1553/index.html)
 
 ### System Design
 
