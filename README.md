@@ -335,36 +335,36 @@ Stuff I read to learn about robotics system & software design and more.
 
 - [roadmap.sh](https://roadmap.sh/) - [Backend](https://roadmap.sh/backend) | [DevOps](https://roadmap.sh/devops)
 - [scikit-learn - Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-- [The Map of Control Theory](https://engineeringmedia.com/)
 - [Software Architecture Styles](https://images.app.goo.gl/YQPSrKNV8d7MeW176)
+- [The Map of Control Theory](https://engineeringmedia.com/)
 
 ### University Courses 
 
 with publically available slides and/or homeworks (problems).
 
-- [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
-    - [Assignments](https://gitlab.cs.washington.edu/cse-478wi)
+- [Georgia Institute of Technology: Interactive Linear Algebra \[1553\]
+- [Georgia Tech CS 3630: Introduction to Computer Vision](https://dellaert.github.io/20S-3630/schedule.html)
+- [Georgia Tech CS x476: Introduction to Computer Vision](https://dellaert.github.io/21F-x476/schedule.html)
+- [MIT 6.4210/6.4212 - Robotic Manipulation](https://manipulation.csail.mit.edu/)
+- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 - [University of Washington  CSE 571: AI-Robotics](https://courses.cs.washington.edu/courses/cse571/23sp/)
     - [Homework 1 - EKF and Particle Filter for Localization](https://courses.cs.washington.edu/courses/cse571/23sp/homeworks/CSE571_HW1.pdf)
+- [University of Washington CSE 478: Autonomous Robotics](https://courses.cs.washington.edu/courses/cse478/20wi/)
+    - [Assignments](https://gitlab.cs.washington.edu/cse-478wi)
 - [University of Washington CSE 599g1: Introduction to Deep Learning](https://courses.cs.washington.edu/courses/cse599g1/19au/)
     - [dubnet](https://github.com/pjreddie/dubnet/tree/main)
 - [University of Washington CSE P576: Computer Vision](https://courses.cs.washington.edu/courses/csep576/18sp/)
-- [University of California, Berkely CS 287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
-- [MIT 6.4210/6.4212 - Robotic Manipulation](https://manipulation.csail.mit.edu/)
-- [Georgia Tech CS 3630: Introduction to Computer Vision](https://dellaert.github.io/20S-3630/schedule.html)
-- [Georgia Tech CS x476: Introduction to Computer Vision](https://dellaert.github.io/21F-x476/schedule.html)
-- [Georgia Institute of Technology: Interactive Linear Algebra \[1553\]
 ](https://textbooks.math.gatech.edu/ila/1553/index.html)
 
 ### System Design
 
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master/object-oriented-design-case-studies)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
     - [How to best prepare for system design interviews | Top Tips for system design interviews preparation](https://www.youtube.com/watch?v=aht20iQXfRY)
     - [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
     - [Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/?ref=blog.pragmaticengineer.com)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master/object-oriented-design-case-studies)
 
 ### Software Architecture
 
@@ -373,25 +373,25 @@ with publically available slides and/or homeworks (problems).
 
 ### Hands-on Exercise
 
-- [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
-- [NeetCode](https://neetcode.io/)
-- [SadServers](https://sadservers.com/)
-- [Kaggle](https://www.kaggle.com/)
-- [EvalAI](https://github.com/Cloud-CV/EvalAI)
-- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
-- [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
 - [Autonomous Systems Interview Preparations](https://gist.github.com/sunsided/b76260626cefb7512a9b3579f1c9660e)
+- [EvalAI](https://github.com/Cloud-CV/EvalAI)
+- [Kaggle](https://www.kaggle.com/)
+- [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
+- [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
+- [NeetCode](https://neetcode.io/)
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+- [SadServers](https://sadservers.com/)
 
 ### Engineering in Organization
 
+- [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+- [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
 - [Spotify Engineering Culture - Part 1](https://youtu.be/Yvfz4HGtoPc)
+- [The Glue Engineer](https://noidea.dog/glue)
 - [The Scrum Guide](https://scrumguides.org/index.html)
 - [Why you should stop using product roadmaps and try the GIST Framework](https://itamargilad.com/gist-framework/)
     - [GIST Planning](https://www.productplan.com/glossary/gist-planning/)
-- [The Glue Engineer](https://noidea.dog/glue)
-- [project-checklist by amilajack](https://github.com/amilajack/project-checklist)
-- [Going from Junior -> Senior engineer in 2 years](https://careercutler.substack.com/p/going-from-junior-senior-engineer)
-- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 
 
 ## Related Lists
