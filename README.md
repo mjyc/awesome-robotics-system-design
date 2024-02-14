@@ -85,6 +85,7 @@ Stuff I read to learn about robotics system & software design and more.
 ### CI/CD
 
 - [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
+- [Hardware-In-the-Loop for Connected Automated Vehicles Testing in Real Traffic](https://arxiv.org/pdf/1907.09052.pdf)
 - [Improving Embedded Software Development through CI/CD](https://medium.com/@tom_80522/improving-embedded-software-development-through-ci-cd-00e9628d0a12)
 
 ### Safety, Metrics, Standards
