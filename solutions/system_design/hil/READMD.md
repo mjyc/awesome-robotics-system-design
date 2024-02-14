@@ -1,1 +1,0 @@
-# Design a Hardware-in-the-loop (HIL) testing system for autonomous vehicles
