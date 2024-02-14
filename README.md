@@ -374,7 +374,10 @@ with publically available slides and/or homeworks (problems).
 ### Hands-on Exercise
 
 - [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
+- [NeetCode](https://neetcode.io/)
 - [SadServers](https://sadservers.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [EvalAI](https://github.com/Cloud-CV/EvalAI)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
 - [Autonomous Systems Interview Preparations](https://gist.github.com/sunsided/b76260626cefb7512a9b3579f1c9660e)
