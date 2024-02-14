@@ -147,7 +147,7 @@ Stuff I read to learn about robotics system & software design and more.
 
 with publically available slides and/or homeworks (problems).
 
-- [Georgia Institute of Technology: Interactive Linear Algebra \[1553\]
+- [Georgia Institute of Technology: Interactive Linear Algebra \[1553\]](https://textbooks.math.gatech.edu/ila/)
 - [Georgia Tech CS 3630: Introduction to Computer Vision](https://dellaert.github.io/20S-3630/schedule.html)
 - [Georgia Tech CS x476: Introduction to Computer Vision](https://dellaert.github.io/21F-x476/schedule.html)
 - [MIT 6.4210/6.4212 - Robotic Manipulation](https://manipulation.csail.mit.edu/)
