@@ -1,4 +1,4 @@
-# (WIP) Robotics System Design Notes
+# Robotics System Design Topics
 
 ## Framework
 
@@ -32,59 +32,40 @@ Reasons for not using a framework
 * Less dependencies/More control
 
 
-## Communication
+## Zerocopy
 
-<!--
-Transport
+### Considerations
 
-Serialization
-
-Abstraction
+* Serialization vs. Transport vs. Both
+* Hardware dependency
 
 ### Examples
 
-* XMLRPC
-* DDS
--->
+* [Cap'n Proto](https://capnproto.org/)
+* [Zenoh](https://zenoh.io/)
 
-### Zerocopy
-
-[Cap'n Proto](https://capnproto.org/)
-
-[Zenoh](https://zenoh.io/)
-
-### Further Readings
-
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - [Communication](https://github.com/donnemartin/system-design-primer/blob/master/README.md#communication)
 
 ## Build System
 
-### Further Readings
+### Monorepo
+
+Why?
 
 * [Monorepo Explained](https://monorepo.tools/)
 * [Building Self Driving Cars with Bazel](https://youtu.be/fjfFe98LTm8)
 
-## CI/CD
+Why not?
 
-### Further Readings
+* Team autonomy
+* Migration & maintenance efforts
+
+
+## Hardware-in-The-Loop Testing
 
 * [CI for Embedded Systems](https://jamesmunns.com/blog/hardware-ci-overview/)
 * [How to Build a Continuous Integration and Delivery Process for Embedded Software](https://medium.com/jumperiot/how-to-build-a-continuous-integration-and-delivery-flow-for-embedded-software-b0b5bf220a2)
 
+
 ## Deployment
 
-### Further Readings
-
 * [The landscape of software deployment in robotics](https://web.archive.org/web/20230330175041/https://www.airbotics.io/blog/software-deployment-landscape)
-
-<!-- 
-# Capabilities
-
-## Localization
-
-## Motion Planning
-
-## Control
-
-### Determinism
--->
