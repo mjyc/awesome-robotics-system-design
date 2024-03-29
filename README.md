@@ -1,6 +1,6 @@
 # Awesome Robotics System Design
 
-Stuff I read to learn about robotics system & software design and more.
+Stuff I read to learn about robotics system & software design and more, e.g., [design interview questions](./interview_questions.md), [design discussion topics](./discussion_topics.md).
 
 ## Blogs
 
