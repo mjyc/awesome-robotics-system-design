@@ -68,4 +68,15 @@ Why not?
 
 ## Deployment
 
-* [The landscape of software deployment in robotics](https://web.archive.org/web/20230330175041/https://www.airbotics.io/blog/software-deployment-landscape)
+### Considerations
+
+* Checkout [The landscape of software deployment in robotics](https://web.archive.org/web/20230330175041/https://www.airbotics.io/blog/software-deployment-landscape)
+
+
+## Launch System
+
+### Examples
+
+- [Supervisor](http://supervisord.org/)
+- [docker-compose](https://docs.docker.com/compose/)
+- [AdAstra Subsystem Launcher](https://github.com/dallison/adastra)
