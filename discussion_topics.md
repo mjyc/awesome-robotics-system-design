@@ -38,11 +38,13 @@ Reasons for not using a framework
 
 * Serialization vs. Transport vs. Both
 * Hardware dependency
+* IDL support, interoperability with build systems
 
 ### Examples
 
 * [Cap'n Proto](https://capnproto.org/)
 * [Zenoh](https://zenoh.io/)
+* [RTI Connext DDS Micro](https://community.rti.com/static/documentation/connext-micro/3.0.0/doc/html/usersmanual/zerocopy.html) and [Eclipse iceoryx](https://github.com/eclipse/iceoryx)
 
 
 ## Build System
@@ -80,3 +82,4 @@ Why not?
 - [Supervisor](http://supervisord.org/)
 - [docker-compose](https://docs.docker.com/compose/)
 - [AdAstra Subsystem Launcher](https://github.com/dallison/adastra)
+- [ROS 2 Launch](https://github.com/ros2/launch)
