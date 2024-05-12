@@ -44,14 +44,16 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
     - [Physical Continuous Integration — CI on Real Robots!](https://vimeo.com/187705231), 2016
     - [Determinism in ROS – or when things break sometimes and how to fix it](https://www.youtube.com/watch?v=II8yCw5tPE0), 2017
     - [Concurrency in ROS 1 and ROS 2](https://vimeopro.com/osrfoundation/roscon-2019/video/379127709), 2019
-    - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [Rosbag2 for Power Users](https://vimeo.com/649655219/75630c8cff), 2021
+    - [Tracing ROS 2 with ros2_tracing](https://vimeo.com/652633418), 2021
     - [MCAP - A Next Generation File Format for ROS Recording](https://www.youtube.com/watch?v=Ly1XSxW8XF4), 2022
+    - [Improving Your Application's Algorithms and Optimizing Performance Using Trace Data](https://vimeo.com/879001159/7d588b2cc4), 2023
+    - [Leveraging a functional approach for more testable and maintainable ROS code](https://vimeo.com/879001204/ad5a36bb36), 2023
     - [Octomap is dead long life Bonxai](https://vimeo.com/879001365/4e5a1c2e0a), 2023
+    - [Real-time Data-flow extension for ROS 2](https://vimeo.com/879001546/54514e92c0)
+    - [Simulate robots like never before with Open 3D Engine](https://vimeo.com/879001753/80b62256e1), 2023
     - [Surviving the Flood (of Rosbags)](https://vimeo.com/879001892/66580b9633), 2023
     - [What is Robotics Observability? Scaling ROS from Prototype to Production](https://vimeo.com/879001947/f15b94d3a4), 2023
-    - [Improving Your Application's Algorithms and Optimizing Performance Using Trace Data](https://vimeo.com/879001159/7d588b2cc4), 2023
-    - [Simulate robots like never before with Open 3D Engine](https://vimeo.com/879001753/80b62256e1), 2023
 - [COMMA_CON](https://commacon.splashthat.com/)
     - [How We Test openpilot](https://youtu.be/vc6q9yIz6Ys?si=iJu4wZI87WTl37m5), 2021
 - [Amazon re:MARS](https://remars.amazonevents.com/)
@@ -67,12 +69,12 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 ## Design Docs
 
 - [ROS2 Design](http://design.ros2.org/)
-    - [ROS on ZeroMQ and Friends](https://design.ros2.org/articles/ros_with_zeromq.html)
-    - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
     - [Clock and Time](https://design.ros2.org/articles/clock_and_time.html)
     - [Managed nodes](https://design.ros2.org/articles/node_lifecycle.html)
     - [ROS 2 Launch System](https://design.ros2.org/articles/roslaunch.html)
     - [ROS 2.0 rosbags](https://github.com/ros2/design/blob/ros2bags/articles/rosbags.md)
+    - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
+    - [ROS on ZeroMQ and Friends](https://design.ros2.org/articles/ros_with_zeromq.html)
 - [Autoware's Design](https://autowarefoundation.github.io/autoware-documentation/main/design/)
     - [Planning component design](https://autowarefoundation.github.io/autoware-documentation/main/design/autoware-architecture/planning/)
 - [openpilot](https://github.com/commaai/openpilot)
@@ -132,6 +134,7 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 - [coffeeintobugs](https://github.com/dallison/coffeeintobugs)
 - [Coffee Into Bugs: Life After Threads, Coroutines](https://www.linkedin.com/pulse/coffee-bugs-life-after-threads-coroutines-dave-allison)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+- [TBB Data Flow graphs in Robotics](https://nicolovaligi.com/talks/tbb-data-flow-robotics/)
 
 
 ## Learning Resources
