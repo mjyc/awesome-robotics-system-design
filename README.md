@@ -126,15 +126,16 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 - [Reflection in C++ Part 1: The Present](https://gracicot.github.io/reflection/2018/04/03/reflection-present.html)
 - [Challenge your performance intuition with C++ magic squares](https://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_magic_squares.html)
 - [Brain Unrolling](http://videocortex.io/2019/Brain-Unrolling/)
+  [TBB Data Flow graphs in Robotics](https://nicolovaligi.com/talks/tbb-data-flow-robotics/)
 - [C++ medley](https://docs.google.com/presentation/d/1syD-vSwfrGoRZXi8uybnP6qfU8tjcht0vJAdmrRU0_Y/edit)
 - [Context is Everything](https://vimeo.com/644068002)
 - [Async stack traces in folly: Improving debugging in the developer lifecycle](https://developers.facebook.com/blog/post/2021/10/21/async-stack-traces-folly-improving-debugging-developer-lifecycle/)
+- [Real-time programming with Linux, part 1: What is real-time?](https://shuhaowu.com/blog/2022/01-linux-rt-appdev-part1.html)
 - [The Danger of Atomic Operations](https://abseil.io/blog/01222022-atomic-operations)
 - [In Defense Of Linked Lists](https://www.rfleury.com/p/in-defense-of-linked-lists)
 - [coffeeintobugs](https://github.com/dallison/coffeeintobugs)
 - [Coffee Into Bugs: Life After Threads, Coroutines](https://www.linkedin.com/pulse/coffee-bugs-life-after-threads-coroutines-dave-allison)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-- [TBB Data Flow graphs in Robotics](https://nicolovaligi.com/talks/tbb-data-flow-robotics/)
 
 
 ## Learning Resources
