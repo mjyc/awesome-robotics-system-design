@@ -136,6 +136,7 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 - [coffeeintobugs](https://github.com/dallison/coffeeintobugs)
 - [Coffee Into Bugs: Life After Threads, Coroutines](https://www.linkedin.com/pulse/coffee-bugs-life-after-threads-coroutines-dave-allison)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+- [CPP Optimizations Diary](https://cpp-optimizations.netlify.app/)
 
 
 ## Learning Resources
