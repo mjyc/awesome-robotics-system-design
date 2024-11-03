@@ -138,6 +138,15 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 - [CPP Optimizations Diary](https://cpp-optimizations.netlify.app/)
 
+### MLOps
+
+- [Woven by Toyota | Data Processing, MLOps and training at Scale With Flyte](https://www.youtube.com/watch?v=OVLZ6-uR_so)
+- [ML Infrastructure for Autonomous Vehicles @ Cruise | Alexander Sidorov](https://www.youtube.com/watch?v=zAT8sGsjnZ0)
+- [Cruise.data - A new dataset processing pipeline for Cruise ML](https://www.youtube.com/watch?v=gj0BqvfX_wI)
+- [Building a Data Lakehouse to Manage PBs of Autonomous Vehicle Data](https://www.youtube.com/watch?v=MaQQmjtFUK8)
+- [What is MLOps?](https://aws.amazon.com/what-is/mlops/)
+- [Machine Learning Operations](https://ml-ops.org/)
+
 
 ## Learning Resources
 
