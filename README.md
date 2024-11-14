@@ -107,7 +107,7 @@ Stuff I read to learn about robotics system & software design and more, e.g., [d
 ### Testing
 
 - [Testing robotics systems in fast-paced startups](https://mjyc.github.io/2020/12/16/testing.html)
-- [How Lessons From Self-Driving Can Improve LLMs](https://www.tidepool.so/2023/11/08/how-lessons-from-self-driving-can-improve-llms/)
+- [How Lessons From Self-Driving Can Improve LLMs](https://web.archive.org/web/20231209121342/https://www.tidepool.so/2023/11/08/how-lessons-from-self-driving-can-improve-llms/)
 
 ### Observability
 
