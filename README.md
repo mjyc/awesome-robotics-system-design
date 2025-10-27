@@ -197,6 +197,7 @@ with publically available slides and/or homeworks (problems).
 - [LeetCode](https://leetcode.com/): [Data Stream](https://leetcode.com/tag/data-stream/), [Design](https://leetcode.com/tag/design/), [Matrix](https://leetcode.com/tag/matrix/), [Simulation](https://leetcode.com/tag/simulation/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
 - [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)   
 - [NeetCode](https://neetcode.io/)
+- [Robotics Course by Hugging Face](https://huggingface.co/robotics-course), featuring [LeRobot](https://huggingface.co/lerobot)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [SadServers](https://sadservers.com/)
 
