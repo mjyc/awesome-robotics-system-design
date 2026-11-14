@@ -176,7 +176,7 @@ with publically available slides and/or homeworks (problems).
 
 ### System Design
 
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
     - [How to best prepare for system design interviews | Top Tips for system design interviews preparation](https://www.youtube.com/watch?v=aht20iQXfRY)
     - [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
